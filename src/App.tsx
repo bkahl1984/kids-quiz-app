@@ -3,6 +3,7 @@ import KidsQuizApp from './KidsQuizApp'
 
 function App() {
   return (
+    /* kids quiz app */
     <KidsQuizApp />
   )
 }
